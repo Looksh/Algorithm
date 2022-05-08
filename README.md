@@ -27,8 +27,8 @@
 ## 🔥 Repository Contributor
 
 해당 레포지토리에 참여하고 있는 멤버입니다.
-| 이름 | Nickname | Github | kakaoTalk |
-| ------ | -------- | ------------------------------------ | --------- |
-| 김승현 | Looksh | [@Looksh](https://github.com/Looksh) | moonu720 |
+| 이름 | Nickname | Github |
+| ------ | -------- | ------------------------------------ |
+| 김승현 | Looksh | [@Looksh](https://github.com/Looksh) |
 | 박종혁 |
-| 조현주 |
+| 조현주 | hyeonjuu | [@hyeonjuu](https://github.com/hyeonjuu) |
