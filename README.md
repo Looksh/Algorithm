@@ -30,5 +30,5 @@
 | 이름 | Nickname | Github |
 | ------ | -------- | ------------------------------------ |
 | 김승현 | Looksh | [@Looksh](https://github.com/Looksh) |
-| 박종혁 |
+| 박종혁 | Parkjonghyeok2 | [Parkjonghyeok2](https://github.com/Parkjonghyeok2)
 | 조현주 | hyeonjuu | [@hyeonjuu](https://github.com/hyeonjuu) |
