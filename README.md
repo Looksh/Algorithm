@@ -10,11 +10,15 @@
 
     - [codeUp] 이름
 
+    - [Programmers] 이름
+
   - ⭐ Commit Message 규칙 ⭐
 
     - [Baekjoon-문제번호] 문제명
 
     - [codeUp-문제번호] 문제명
+
+    - [Programmers-문제번호] 문제명
 
 ## 🔥 Repository Maintainer
 
